@@ -1,0 +1,36 @@
+/* Profile icons */
+.MObmOrMxbQpO10ebAtZA svg {
+	color: black;
+}
+
+.main-avatar-userIcon svg {
+	color: black;
+}
+
+.Hm3nIbegLclY1uCAmnx_ {
+	background: #8ccf7e  !IMPORTANT;
+}
+
+
+/* Settings menu */
+.main-topBar-background {
+	background-color: #070c0e !IMPORTANT;
+}
+
+/* Toggles */
+.x-toggle-indicatorWrapper {
+	background-color: #b3b9b8; !IMPORTANT
+}
+
+input:checked~.x-toggle-indicatorWrapper {
+	background-color: #61bb5e; !IMPORTANT
+}
+
+/* Dropdowns and inputs */
+.vz1y5qTbjoHTSwBoyCYh select {
+	background-color: #363c3b;
+}
+
+.vz1y5qTbjoHTSwBoyCYh input {
+	background-color: #363c3b;
+}
