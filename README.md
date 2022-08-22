@@ -4,6 +4,7 @@
 
 <h2 align="center"> Everblush Spotify Theme</h2>
 
+<h5 align="center">Spotify theme using the spicetify injector</h5>
 
 # Preview
 <p align="center"> 
