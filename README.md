@@ -1,12 +1,28 @@
-# spotify
-Everblush Theme for Spotify (Spicetify) 
+<div align="center">
+<img align="center" src="https://github.com/Everblush/assets/blob/main/logo.png" style="height: 200px; width: 200px;" alt="logo"> 
+</div> 
+
+<h2 align="center"> Everblush Spotify Theme</h2>
+
+<h5 align="center">Spotify theme using the Spicetify injector</h5>
+
+# Preview
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/Everblush/assets/main/spotify/preview.png">
+</p>
 
 # Installion
 1. Install Spicetify by following the [official guide](https://spicetify.app/docs/getting-started) for your specific OS. If you have Spotify on Flatpak, or you want to install Spicetify a different way, then follow [this page](https://spicetify.app/docs/advanced-usage/installation).
 2. Clone the theme:
-```bash
-git clone https://github.com/Everblush/spotify.git $HOME/.config/spicetify/Themes/Everblush
-```
+
+	- Linux:
+	```sh
+	git clone https://github.com/Everblush/spotify.git $HOME/.config/spicetify/Themes/Everblush
+	```
+	- Windows:
+	```cmd
+	git clone https://github.com/Everblush/spotify.git %appdata%\spicetify\Themes\Everblush
+	```
 3. Now execute these commands to actually apply the theme:
 ```
 spicetify config current_theme Everblush color_scheme Base
